@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Workout the Right Way</a>
 
 profile:
   align: right
@@ -18,8 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+ "I’m a high schooler with JV basketball experience, and when I first started high school, I had trouble making the most of my workout time. I would workout for hours but wouldn't see any improvement during team practices and games. I realized many other players face the same challenge of spending hours training without seeing real improvement. 
+ 
+That’s why I created this website - to help players workout more efficiently and get better results from the work they put in. On this website, you will find a variety of resources designed to help you reach your basketball goals more efficiently. From basketball drills to conditioning and strength training workouts, everything is designed to maximize your progress without wasting time. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I also offer FREE personalized workout plans tailored to your unique situation. Whether you're looking to get more playing time, develop specific skills, or overcome personal challenges like size or athletic ability, I’ll help you design a plan that fits your personal needs. To get started, just visit the Workouts tab for more info. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+For those struggling with the mental aspects of the game, check out the motivation tab."
