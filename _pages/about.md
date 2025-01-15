@@ -6,7 +6,7 @@ subtitle: <a href='#'>Workout the Right Way</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: <img src="prof_pic.jpg" alt ="logo">
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
