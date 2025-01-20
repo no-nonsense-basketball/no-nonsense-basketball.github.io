@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-image-galleries",
+            },{id: "post-step-by-step-guide-to-structuring-workouts",
+      
+        title: "Step by Step Guide to Structuring Workouts",
+      
+      description: "Stop wasting time when you work out. Read this guide.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/code/";
+        
+      },
+    },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
       
@@ -382,17 +393,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2015/math/";
-        
-      },
-    },{id: "post-step-by-step-guide-to-structuring-workouts",
-      
-        title: "Step by Step Guide to Structuring Workouts",
-      
-      description: "Stop wasting time when you work out. Read this guide.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/code/";
         
       },
     },{id: "post-a-post-with-images",
