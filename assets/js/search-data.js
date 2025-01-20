@@ -384,11 +384,11 @@ ninja.data = [{
           window.location.href = "/blog/2015/math/";
         
       },
-    },{id: "post-a-post-with-code",
+    },{id: "post-step-by-step-guide-to-structuring-workouts",
       
-        title: "a post with code",
+        title: "Step by Step Guide to Structuring Workouts",
       
-      description: "an example of a blog post with some code",
+      description: "Stop wasting time when you work out. Read this guide.",
       section: "Posts",
       handler: () => {
         
