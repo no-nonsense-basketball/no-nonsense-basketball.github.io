@@ -76,6 +76,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/code/";
         
       },
+    },{id: "post-how-to-create-a-daily-schedule",
+      
+        title: "How to Create a Daily Schedule",
+      
+      description: "If you are serious about taking your game to the next level, you cannot afford to waste any time.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/distill/";
+        
+      },
     },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
@@ -349,17 +360,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2021/diagrams/";
-        
-      },
-    },{id: "post-a-distill-style-blog-post",
-      
-        title: "a distill-style blog post",
-      
-      description: "an example of a distill-style blog post and main elements",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2021/distill/";
         
       },
     },{id: "post-a-post-with-twitter",
