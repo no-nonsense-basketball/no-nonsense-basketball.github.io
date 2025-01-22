@@ -16,9 +16,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
+        },{id: "nav-personalized-workouts",
+          title: "Personalized Workouts",
+          description: "Receive a FREE personalized workout plan created for your specific situation and needs.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
