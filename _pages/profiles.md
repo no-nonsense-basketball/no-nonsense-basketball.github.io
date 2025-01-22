@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: Personalized Workouts
+description: Receive a FREE personalized workout plan created for your specific situation and needs.
 nav: true
 nav_order: 2
 
@@ -13,6 +13,4 @@ profiles:
     image: prof_pic.jpg
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>nononsensebasketball@gmail.com</p>
 ---
