@@ -2,10 +2,8 @@ To request a personalized workout, I require the following information to ensure
 
 Step 1: Send an email to nononsensebasketball@gmail.com
 
-Step 2: Provide your age, height, and position you play on your team.
+Step 2: Include your age, height, and position you play on your team.
 
-Step 3: Provide your 
+Step 3: Include your current situation. For instance, practice player for JV, or bench on varsity. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Step 4: Include your skill level, and weaknesses - things you struggle with and need to improve on the most. Weaknesses you list should be the things that are holding you back from making it to the next level.
