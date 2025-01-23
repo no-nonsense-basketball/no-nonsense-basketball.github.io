@@ -2,7 +2,7 @@
 layout: post
 title: Three Hip Mobility Exercises to do.
 date: 2025-01-22 5:21:00
-description: Your hips are CRUCIAL in basketball. If they are weak/unflexible, this will limit your athletic performance.
+description: Your hips are CRUCIAL in basketball. If they are weak/inflexible, this will limit your athletic performance.
 tags: Mobility/Stretching
 ---
 A quick google/youtube search will show you how to perform these exercises.
