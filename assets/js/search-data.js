@@ -58,7 +58,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-three-lower-body-exercises-to-do",
+            },{id: "post-items-i-recommend-to-buy-as-a-hooper",
+      
+        title: "Items I recommend to buy as a hooper.",
+      
+      description: "Serious about improving? These items will help.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/22/math.html";
+        
+      },
+    },{id: "post-three-lower-body-exercises-to-do",
       
         title: "Three lower body exercises to do.",
       
@@ -386,17 +397,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/sample-posts/external-services/2020/09/28/twitter.html";
-        
-      },
-    },{id: "post-a-post-with-math",
-      
-        title: "a post with math",
-      
-      description: "an example of a blog post with some math",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/sample-posts/2015/10/20/math.html";
         
       },
     },{id: "post-formatting-and-links",
