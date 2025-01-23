@@ -1,12 +1,14 @@
 ---
 layout: post
-title: a post with disqus comments
-date: 2015-10-20 11:59:00-0400
-description: an example of a blog post with disqus comments
-tags: comments
-categories: sample-posts external-services
-disqus_comments: true
-related_posts: false
+title: Three Hip Mobility Exercises to do.
+date: 2025-01-22 5:21:00
+description: Your hips are CRUCIAL in basketball. If they are weak/unflexible, this will limit your athletic performance.
+tags: Mobility/Stretching
 ---
+A quick google/youtube search will show you how to perform these exercises.
 
-This post shows how to add DISQUS comments.
+1. 90 90s: This stretch targets many of the muscles surrounding the hip capsule, including your glutes, hips, and lower back. This will help increase your hip's internal and external rotation. If your hip mobility is already good, do these 90 90s with your hands in the air and not touching the ground.
+   
+2. Pigeon Stretch: This stretch stretches your hips, glutes, and groin. It will improve your range of motion and relieve tension within these areas and can also strengthen your lower back. Hold it for 45-60 seconds.
+   
+3. Couch Stretch: This stretch loosens your hip flexors and engages your glutes. Hold it for 30-45 secs.
