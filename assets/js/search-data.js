@@ -58,7 +58,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-items-i-recommend-to-buy-as-a-hooper",
+            },{id: "post-are-vktry-insoles-worth-it",
+      
+        title: "Are VKTRY Insoles worth it?",
+      
+      description: "An unbiased review on VKTRY Insoles",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/22/twitter.html";
+        
+      },
+    },{id: "post-items-i-recommend-to-buy-as-a-hooper",
       
         title: "Items I recommend to buy as a hooper.",
       
@@ -386,17 +397,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/2021/07/04/diagrams.html";
-        
-      },
-    },{id: "post-a-post-with-twitter",
-      
-        title: "a post with twitter",
-      
-      description: "an example of a blog post with twitter",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/sample-posts/external-services/2020/09/28/twitter.html";
         
       },
     },{id: "post-formatting-and-links",
