@@ -463,7 +463,7 @@ ninja.data = [{
         title: 'Instagram',
         section: 'Socials',
         handler: () => {
-          window.open("https://instagram.com/72101802738", "_blank");
+          window.open("https://instagram.com/no_nonsense_basketball", "_blank");
         },
       },{
         id: 'social-custom_social',
