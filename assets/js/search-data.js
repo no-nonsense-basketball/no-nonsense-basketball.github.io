@@ -58,7 +58,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-three-hip-mobility-exercises-to-do",
+            },{id: "post-three-lower-body-exercises-to-do",
+      
+        title: "Three lower body exercises to do.",
+      
+      description: "Looking to become more explosive and jump higher? Do these exercises.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/22/images.html";
+        
+      },
+    },{id: "post-three-hip-mobility-exercises-to-do",
       
         title: "Three Hip Mobility Exercises to do.",
       
@@ -78,17 +89,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/2025/01/20/code.html";
-        
-      },
-    },{id: "post-step-by-step-guide-to-structuring-workouts",
-      
-        title: "Step by Step Guide to Structuring Workouts",
-      
-      description: "Stop wasting time when you work out. Read this guide.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2025/01/20/images.html";
         
       },
     },{id: "post-how-to-create-a-daily-schedule",
