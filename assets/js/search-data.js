@@ -449,7 +449,7 @@ ninja.data = [{
         title: 'Discord',
         section: 'Socials',
         handler: () => {
-          window.open("https://discord.com/users/1328102185535406201", "_blank");
+          window.open("https://discord.com/users/803836346337853490", "_blank");
         },
       },{
         id: 'social-email',
@@ -463,14 +463,7 @@ ninja.data = [{
         title: 'Instagram',
         section: 'Socials',
         handler: () => {
-          window.open("https://instagram.com/no_nonsense_basketball", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://instagram.com/18313809", "_blank");
         },
       },{
       id: 'light-theme',
