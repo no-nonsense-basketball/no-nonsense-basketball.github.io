@@ -58,7 +58,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-step-by-step-guide-to-structuring-workouts",
+            },{id: "post-three-hip-mobility-exercises-to-do",
+      
+        title: "Three Hip Mobility Exercises to do.",
+      
+      description: "Your hips are CRUCIAL in basketball. If they are weak/unflexible, this will limit your athletic performance.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/22/disqus-comments.html";
+        
+      },
+    },{id: "post-step-by-step-guide-to-structuring-workouts",
       
         title: "Step by Step Guide to Structuring Workouts",
       
@@ -364,17 +375,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/sample-posts/external-services/2020/09/28/twitter.html";
-        
-      },
-    },{id: "post-a-post-with-disqus-comments",
-      
-        title: "a post with disqus comments",
-      
-      description: "an example of a blog post with disqus comments",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/sample-posts/external-services/2015/10/20/disqus-comments.html";
         
       },
     },{id: "post-a-post-with-math",
