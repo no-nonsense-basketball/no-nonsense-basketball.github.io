@@ -69,6 +69,17 @@ ninja.data = [{
           window.location.href = "/2025/01/23/code.html";
         
       },
+    },{id: "post-how-to-create-a-daily-schedule",
+      
+        title: "How to Create a Daily Schedule",
+      
+      description: "If you are serious about taking your game to the next level, you cannot afford to waste any time.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/23/distill.html";
+        
+      },
     },{id: "post-are-vktry-insoles-worth-it",
       
         title: "Are VKTRY Insoles worth it?",
@@ -111,17 +122,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/2025/01/22/disqus-comments.html";
-        
-      },
-    },{id: "post-how-to-create-a-daily-schedule",
-      
-        title: "How to Create a Daily Schedule",
-      
-      description: "If you are serious about taking your game to the next level, you cannot afford to waste any time.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2025/01/20/distill.html";
         
       },
     },{id: "post-a-post-with-image-galleries",
