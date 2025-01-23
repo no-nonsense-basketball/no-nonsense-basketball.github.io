@@ -58,7 +58,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-are-vktry-insoles-worth-it",
+            },{id: "post-step-by-step-guide-to-structuring-workouts",
+      
+        title: "Step by Step Guide to Structuring Workouts",
+      
+      description: "Stop wasting time when you work out. Read this guide.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/23/code.html";
+        
+      },
+    },{id: "post-are-vktry-insoles-worth-it",
       
         title: "Are VKTRY Insoles worth it?",
       
@@ -100,17 +111,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/2025/01/22/disqus-comments.html";
-        
-      },
-    },{id: "post-step-by-step-guide-to-structuring-workouts",
-      
-        title: "Step by Step Guide to Structuring Workouts",
-      
-      description: "Stop wasting time when you work out. Read this guide.",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2025/01/20/code.html";
         
       },
     },{id: "post-how-to-create-a-daily-schedule",
