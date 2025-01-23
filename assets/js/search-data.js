@@ -80,6 +80,17 @@ ninja.data = [{
           window.location.href = "/2025/01/20/code.html";
         
       },
+    },{id: "post-step-by-step-guide-to-structuring-workouts",
+      
+        title: "Step by Step Guide to Structuring Workouts",
+      
+      description: "Stop wasting time when you work out. Read this guide.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/20/images.html";
+        
+      },
     },{id: "post-how-to-create-a-daily-schedule",
       
         title: "How to Create a Daily Schedule",
@@ -386,17 +397,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/sample-posts/2015/10/20/math.html";
-        
-      },
-    },{id: "post-a-post-with-images",
-      
-        title: "a post with images",
-      
-      description: "this is what included images could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/sample-posts/2015/05/15/images.html";
         
       },
     },{id: "post-formatting-and-links",
