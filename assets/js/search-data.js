@@ -73,7 +73,7 @@ ninja.data = [{
       
         title: "Three Hip Mobility Exercises to do.",
       
-      description: "Your hips are CRUCIAL in basketball. If they are weak/unflexible, this will limit your athletic performance.",
+      description: "Your hips are CRUCIAL in basketball. If they are weak/inflexible, this will limit your athletic performance.",
       section: "Posts",
       handler: () => {
         
