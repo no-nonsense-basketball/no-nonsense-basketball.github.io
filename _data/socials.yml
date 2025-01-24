@@ -6,7 +6,7 @@
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
-discord_id: 803836346337853490 # your discord id (18-digit unique numerical identifier)
+# discord_id: 803836346337853490 # your discord id (18-digit unique numerical identifier)
 email: nononsensebasketball@gmail.com # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
@@ -43,6 +43,6 @@ instagram_id: 18313809 # your instagram id
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 custom_social: # can be any name here other than the ones already defined above
-  logo: https://www.vecteezy.com/png/18930500-discord-logo-png-discord-icon-transparent-png # can be png, svg, jpg
+  logo: https://assets.mofoprod.net/network/images/discord.width-250.jpg # can be png, svg, jpg
   title: Discord
   url: https://discord.gg/kTpjrxVRT9
