@@ -438,6 +438,13 @@ ninja.data = [{
           window.open("https://instagram.com/18313809", "_blank");
         },
       },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://discord.gg/kTpjrxVRT9", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
