@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-step-by-step-guide-to-structuring-workouts",
+        },{id: "post-beginner-ball-handling-drills",
+      
+        title: "Beginner Ball Handling Drills",
+      
+      description: "If you are new to basketball, you need to work on your handles and get comfortable with handling the ball ASAP.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/01/27/diagrams.html";
+        
+      },
+    },{id: "post-step-by-step-guide-to-structuring-workouts",
       
         title: "Step by Step Guide to Structuring Workouts",
       
@@ -336,17 +347,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/assets/pdf/example_pdf.pdf";
-        
-      },
-    },{id: "post-a-post-with-diagrams",
-      
-        title: "a post with diagrams",
-      
-      description: "an example of a blog post with diagrams",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/2021/07/04/diagrams.html";
         
       },
     },{id: "post-formatting-and-links",
