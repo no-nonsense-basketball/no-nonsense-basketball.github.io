@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-beginner-ball-handling-drills",
+        },{id: "post-ball-handling-drills",
+      
+        title: "Ball Handling Drills",
+      
+      description: "Good ball handling routine to add into the start of your workout.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/2025/02/06/redirect.html";
+        
+      },
+    },{id: "post-beginner-ball-handling-drills",
       
         title: "Beginner Ball Handling Drills",
       
@@ -336,17 +347,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/sample-posts/external-services/2022/12/10/giscus-comments.html";
-        
-      },
-    },{id: "post-a-post-with-redirect",
-      
-        title: "a post with redirect",
-      
-      description: "you can also redirect to assets like pdf",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/assets/pdf/example_pdf.pdf";
         
       },
     },{id: "post-formatting-and-links",
