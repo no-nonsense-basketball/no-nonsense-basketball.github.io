@@ -38,7 +38,7 @@ ninja.data = [{
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/2025/01/27/diagrams.html";
+          window.location.href = "/2025/02/06/diagrams.html";
         
       },
     },{id: "post-step-by-step-guide-to-structuring-workouts",
